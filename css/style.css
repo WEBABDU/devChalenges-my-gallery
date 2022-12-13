@@ -171,18 +171,23 @@ body {
 .main__image-1 {
   grid-area: photo1;
 }
+
 .main__image-2 {
   grid-area: photo2;
 }
+
 .main__image-3 {
   grid-area: photo3;
 }
+
 .main__image-4 {
   grid-area: photo4;
 }
+
 .main__image-5 {
   grid-area: photo5;
 }
+
 .main__image-6 {
   grid-area: photo6;
 }
