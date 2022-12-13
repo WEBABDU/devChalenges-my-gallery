@@ -117,7 +117,7 @@ body {
 }
 
 .profile__photo {
-  max-width: 156px;
+  max-width: clamp(101px, 27vw, 156px);
   border-radius: 16px;
 }
 
